@@ -1,4 +1,4 @@
-# images
+# Документация проекта
 
 ### Use Case
 ![Иллюстрация к проекту](https://github.com/BesedkiRu/images/raw/main/use-case.png)
